@@ -18,7 +18,9 @@
     [super viewDidLoad];
    
     UIView * view = [[UIView alloc]init];
-    view.backgroundColor = [UIColor redColor];
+    view.backgroundColor = [UIColor blueColor];
+    
+    
     
 }
 
